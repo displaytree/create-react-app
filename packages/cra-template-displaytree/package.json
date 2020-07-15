@@ -1,17 +1,16 @@
 {
-  "name": "cra-template-typescript",
-  "version": "1.0.4",
+  "name": "cra-template-displaytree",
+  "version": "1.0.2",
   "keywords": [
     "react",
     "create-react-app",
-    "template",
-    "typescript"
+    "template"
   ],
-  "description": "The base TypeScript template for Create React App.",
+  "description": "displaytree The base template for Create React App.",
   "repository": {
     "type": "git",
     "url": "https://github.com/displaytree/create-react-app.git",
-    "directory": "packages/cra-template-typescript"
+    "directory": "packages/cra-template-displaytree"
   },
   "license": "MIT",
   "engines": {
